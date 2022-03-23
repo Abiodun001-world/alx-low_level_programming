@@ -1,0 +1,11 @@
+int _purchar ( char c ) ;
+void swap_int (int *a, int *b ) ;
+int _strlen ( char *s ) ;
+void _puts ( char *str ) ;
+void print _rev ( char *s ) ;
+void rev _string ( char *s ) ;
+void puts2 ( char *str ) ;
+void puts_half ( char *str );
+void print _array (int *a, int n );
+char *strcpy (char *dest, char *src);
+int _atoi (char *s);
