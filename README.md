@@ -1,1 +1,1 @@
-coding in c
+Coding in C
